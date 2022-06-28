@@ -1,4 +1,4 @@
-# Long-System-description-for-IPIN2022
+# Long-System-description-for-IPIN2022 Track3
 System Overview
 The system is mainly divided into two parts: model training and location estimation. The model training part constructs a fingerprint map and constructs map features associated with the location information based on multi-sensor information. In the location estimation part, location estimation is performed by sensor information, location correction is performed using the trained model, and the final trajectory is generated.
 
